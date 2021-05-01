@@ -4,10 +4,16 @@
       <i class="fa fa-viruses"></i>
       Covid-19 Tracker
     </div>
-    <p>
+    <!-- <p>
       API by
       <a class="text-blue-300" href="https://covid19api.com" target="_blank">
         covid19api.com
+      </a>
+    </p> -->
+    <p>
+      Created By:
+      <a class="text-blue-300">
+        Karthik Reddy Banoor
       </a>
     </p>
   </header>
